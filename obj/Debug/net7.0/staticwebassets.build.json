@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IsbzvFhliMRquRFc2Z6CADq8rIVLfjlKDj2oAxUEg+g=",
+  "Source": "firstdockerapi",
+  "BasePath": "_content/firstdockerapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
